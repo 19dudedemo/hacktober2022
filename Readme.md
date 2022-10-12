@@ -16,8 +16,8 @@ YOUR WORK :
 
 1. Change the Name from [YOUR NAME] to desired name.
 2. can change various roles or designation in typewritten format in Js file as:
-   ![My Image](assets/img/typewriter.png.jpg)
+    -> Go to Script.js and under the Typewritter can add your details to the string array
 3. Add your own image with description about yourself:
-   ![My Image](assets/img/image%20url.png.jpg)
+   -> In about me section in the image src you can add your path link of the photo
 4. You can add your resume in pdf format to the local file and add in the download button
 5. At last you can add your own social media links in the footer section and contact in the contact me section
